@@ -8,12 +8,12 @@ Todo:
   ✔ Filter emails within a time slot @started(18-12-02 15:03) @done(18-12-02 15:44) @lasted(41m56s)
   ✔ Store list of new messages received within the timeslot into a separate list @started(18-12-02 15:06) @done(18-12-02 22:53) @lasted(7h47m10s)
   ✔ Email the pending Mails. @started(18-12-02 22:53) @done(18-12-02 22:53) @lasted(14s)
-  ☐ Refactor main  - __init__ @started(18-12-08 12:58)
+  ✔ Refactor main  - __init__ @started(18-12-08 12:58) @done(18-12-08 23:31) @lasted(10h33m34s)
   ✔ Config values management - ConfigParser @started(18-12-06 08:54) @done(18-12-06 09:07) @lasted(13m28s)
   ✔ Distinguish between mails and mr @started(18-12-04 10:22) @done(18-12-04 10:22) @lasted(45s)
   ✔ Format the receivedTime date @started(18-12-04 10:22) @done(18-12-05 09:00) @lasted(22h38m16s)
   ✔ Fix the MR error in Team/Bits folder. @started(18-12-05 16:17) @done(18-12-05 16:52) @lasted(35m6s)
-  ☐ Refactor functions
+  ✔ Refactor functions @done(18-12-08 23:31)
   ✔ PyLint @started(18-12-06 09:14) @done(18-12-06 09:35) @lasted(21m12s)
-  ☐ Refactor folder structure
+  ✔ Refactor folder structure @done(18-12-08 23:31)
 
