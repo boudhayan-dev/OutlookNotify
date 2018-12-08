@@ -1,6 +1,11 @@
 language: sh 
 python: "3.6.6"
+cache: pip
 os : windows
+notifications:
+  email:
+    on_success: never # default: change
+    on_failure: never # default: always
 before_install:
         - choco install python3
         - export PATH="/c/Python37:/c/Python37/Scripts:$PATH"
