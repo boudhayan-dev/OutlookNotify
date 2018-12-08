@@ -9,4 +9,4 @@ install:
   - pip install --upgrade pip wheel
   - pip install -r requirements.txt
 script:
-  - python outlook/main.py
+  - python outlook/test.py
