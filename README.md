@@ -1,4 +1,4 @@
-<h1 align="center"> <p align="center"><img src="assets/logo.png" /></p> </h1>
+<h1 align="center"> <p align="center"><img src="assets/logo.PNG" /></p> </h1>
 
 [![Build Status](https://travis-ci.org/boudhayan-dev/OutlookNotify.svg?branch=master)](https://travis-ci.org/boudhayan-dev/OutlookNotify)
 [![Coverage Status](https://coveralls.io/repos/github/boudhayan-dev/OutlookNotify/badge.svg?branch=master)](https://coveralls.io/github/boudhayan-dev/OutlookNotify?branch=master)
@@ -15,7 +15,7 @@
 OutlookNotify was developed to solve this problem. It will continuously monitor my system for any new incoming mails and notify me about any last minute meeting requests. It does not forward the entire body of the received email. Instead, it just extracts the timing details of the meeting requests and forwards to my personal email. </p>
 
 <br>
---
+
 <h3> Download & Installation </h3>
 
 <ul>
@@ -35,7 +35,7 @@ OutlookNotify was developed to solve this problem. It will continuously monitor 
 </ul>
 
 <br>
------
+
 
 
 
@@ -61,7 +61,7 @@ The following logs demonstrate the mails received during the logging period.
 </table>
 
 <br>
-----
+
 
 
 <h3>Contributing</h3>
@@ -69,7 +69,7 @@ Keep it simple. Keep it minimal. <br>
 Also check the issues tab for some enhancement ideas.
 
 <br>
-----
+
 
 <h3>License</h3>
 
