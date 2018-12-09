@@ -1,6 +1,5 @@
 language: sh 
 python: "3.6.6"
-cache: pip
 os : windows
 notifications:
   email:
