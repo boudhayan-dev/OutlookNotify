@@ -1,15 +1,9 @@
+[![Build Status](https://travis-ci.org/boudhayan-dev/OutlookNotify.svg?branch=master)](https://travis-ci.org/boudhayan-dev/OutlookNotify) ![](https://img.shields.io/pypi/pyversions/Django.svg)  ![](https://img.shields.io/pypi/status/Django.svg)
+
+
 <h1 align="center"> <p align="center"><img src="assets/logo.PNG" /></p> </h1>
 
-<p align="center"> 
-  
- [![Build Status](https://travis-ci.org/boudhayan-dev/OutlookNotify.svg?branch=master)](https://travis-ci.org/boudhayan-dev/OutlookNotify)
- 
- </p>
-
 <p align="center"> Outlook Notifications made simple ! </p>
-
-
-
 
 <hr/>
 
