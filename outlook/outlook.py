@@ -98,7 +98,7 @@ class Outlook(object):
             # Log the details of the new mails received.
             logging.info(self.__formatDate(str(self.receivedTime))+' '+ str(self.sender) + self.text)
             self.countMessages += 1
-        return self.newMessages
+        return self.messageDetails
 
     def fetchMails(self,folder):
         """
