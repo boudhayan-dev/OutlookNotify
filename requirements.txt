@@ -15,7 +15,7 @@ mccabe==0.6.1
 pep8==1.7.1
 pylint==2.2.2
 pywin32==224
-PyYAML==3.13
+PyYAML>=4.2
 requests==2.20.1
 six==1.11.0
 toml==0.10.0
